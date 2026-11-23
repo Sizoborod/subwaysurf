@@ -16,6 +16,8 @@ class Game(QMainWindow):
 
     def settings(self):
         '''Ваня'''
+        print()
+        print()
         pass
 
     def closewindow(self):
