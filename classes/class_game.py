@@ -33,5 +33,4 @@ class Hero:
 
     def hits(self):
         '''София'''
-
         pass
