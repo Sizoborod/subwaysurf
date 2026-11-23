@@ -29,7 +29,7 @@ class Hero:
 
     def attack(self):
         '''СРома'''
-        pass
+        print("fs")
 
     def hits(self):
         '''София'''
