@@ -8,8 +8,7 @@ class Game(QMainWindow):
 
     def startwindow(self):
         '''Арсений'''
-        pass
-
+        print('Ready')
     def colize(self):
         '''РРома'''
         pass
