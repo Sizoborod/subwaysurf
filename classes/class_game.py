@@ -33,5 +33,7 @@ class Hero:
 
     def hits(self):
         '''София'''
+        pass
 
+    def nnn(self):
         pass
