@@ -20,6 +20,7 @@ class Game(QMainWindow):
 
     def closewindow(self):
         '''Катя'''
+        print("[;l[lemqe]]")
         pass
 
 
